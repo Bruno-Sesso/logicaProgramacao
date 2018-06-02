@@ -3,6 +3,7 @@ package logicaProgramacao;
 import javax.swing.JOptionPane;
 
 public class ex04_SalarioLiquido {
+	
 	public static void main(String[] args) {
 		Float horas,dependentes,salarioBruto,salarioLiquido,ir,inss;
 		String nome;
